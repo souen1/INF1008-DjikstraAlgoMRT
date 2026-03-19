@@ -1,0 +1,3 @@
+# No extra packages needed — only Python standard library (tkinter)
+# tkinter is bundled with Python 3 on Windows and macOS.
+# On Ubuntu/Debian Linux: sudo apt-get install python3-tk

@@ -24,7 +24,7 @@ north_east_line = [
 "HarbourFront","Outram Park","Chinatown","Clarke Quay",
 "Dhoby Ghaut","Little India","Farrer Park","Boon Keng",
 "Potong Pasir","Woodleigh","Serangoon","Kovan",
-"Hougang","Buangkok","Sengkang","Punggol"
+"Hougang","Buangkok","Sengkang","Punggol","Punggol Coast"
 ]
 
 circle_line = [
