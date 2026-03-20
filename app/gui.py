@@ -51,7 +51,7 @@ EW = ["Pasir Ris","Tampines","Simei","Tanah Merah","Bedok","Kembangan","Eunos",
 
 NE = ["HarbourFront","Outram Park","Chinatown","Clarke Quay","Dhoby Ghaut",
       "Little India","Farrer Park","Boon Keng","Potong Pasir","Woodleigh",
-      "Serangoon","Kovan","Hougang","Buangkok","Sengkang","Punggol"]
+      "Serangoon","Kovan","Hougang","Buangkok","Sengkang","Punggol", "Punggol Coast"]
 
 CC = ["Dhoby Ghaut","Bras Basah","Esplanade","Promenade","Nicoll Highway",
       "Stadium","Mountbatten","Dakota","Paya Lebar","MacPherson","Tai Seng",
