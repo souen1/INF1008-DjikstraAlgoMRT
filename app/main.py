@@ -21,7 +21,7 @@ def main():
     if path:
         print("\nShortest Route:")
         print(" -> ".join(path))
-        print(f"Total Distance: {distance}")
+        print(f"Total number of stations: {len(path)}")
     else:
         print("No route found")
 
